@@ -1,0 +1,5 @@
+{
+  "name": "FujiFrame",
+  "description": "A professional mobile-grade photo editor bringing Fuji film simulations to your photos using high-performance WebGL.",
+  "requestFramePermissions": []
+}
